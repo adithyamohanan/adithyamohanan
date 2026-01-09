@@ -21,11 +21,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science graduate & self-driven learner
-- 💡 I enjoy solving real business problems using technology
-- 🧠 Strong interest in system design, product thinking, and scalable architecture
-- 🔨 Currently building full-stack projects with Spring Boot + React
-- 🎯 Goal: build impactful products and eventually run my own tech company
+- 🎓 Computer Science graduate & self-driven learner  
+- 💡 I enjoy solving real business problems using technology  
+- 🧠 Strong interest in system design, product thinking, and scalable architecture  
+- 🔨 Currently building full-stack projects with Spring Boot + React  
+- 🎯 Goal: build impactful products and eventually run my own tech company  
 
 ---
 
@@ -56,12 +56,12 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyamohanan&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyamohanan&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyamohanan&show_icons=true&theme=react&hide_border=true&cache_seconds=1800&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyamohanan&layout=compact&theme=react&hide_border=true&cache_seconds=1800&v=1" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyamohanan&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=adithyamohanan&theme=react&hide_border=true&v=1" />
 </p>
 
 ---
@@ -75,8 +75,6 @@ If you're working on something meaningful or want to discuss ideas, feel free to
 ---
 
 ## ☕ Support My Work
-
-If you find my projects helpful and want to support me:
 
 <p>
   <a href="https://www.buymeacoffee.com/adithyamohanan" target="_blank">
