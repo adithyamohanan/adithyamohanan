@@ -32,7 +32,7 @@
 - 🎓 Computer Science graduate & self-driven learner  
 - 💡 I enjoy solving real business problems using technology  
 - 🧠 Strong interest in system design, product thinking, and scalable architecture  
-- 🔨 Currently building full-stack projects with **Spring Boot + React**  
+  
 
 ---
 
