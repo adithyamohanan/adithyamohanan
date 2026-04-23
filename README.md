@@ -1,124 +1,90 @@
-<h1 align="center">Hey, I'm Adithya Mohanan 👋</h1>
-<h3 align="center">Software Engineer · Full-Stack Builder · Product-First Thinker</h3>
+<h1 align="center">Adithya Mohanan</h1>
 
 <p align="center">
-  I build scalable web applications with clean architecture and thoughtful UX.<br/>
-  Passionate about turning ideas into real, usable products.
+  Senior Software Engineer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Product-First Builder
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="320" alt="coding animation"/>
-</p>
-
-<p align="center">
-  <a href="mailto:adithyamohan913@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adithyamohan913%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adithya-mohanan-473617211/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Adithya%20Mohanan-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/adithyamohan.x" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@adithyamohan.x-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCIUOGe4uWmp_VoXMcUAvqpw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Adithya-FF0000?style=flat&logo=youtube&logoColor=white"/>
-  </a>
+  <a href="mailto:adithyamohan913@gmail.com">adithyamohan913@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/adithya-mohanan-473617211/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/channel/UCIUOGe4uWmp_VoXMcUAvqpw">YouTube</a>
 </p>
 
 ---
 
-## 🚀 About Me
+I build software with the end user in mind — from architecture decisions to the last interaction detail.
 
-- 🎓 Computer Science graduate & self-driven learner  
-- 💡 I enjoy solving real business problems using technology  
-- 🧠 Strong interest in system design, product thinking, and scalable architecture  
-  
+My approach sits at the intersection of engineering and product thinking. I don't just implement features; I ask whether those features should exist, how they'll be used, and what a well-crafted version of them looks like. I've led technical initiatives, shaped product direction through code, and taken full ownership from idea through to production.
 
----
-
-## 🛠 Tech Stack
-
-### 🎨 Design & UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+I value systems that are fast, maintainable, and actually solve the problem they're designed to solve.
 
 ---
 
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+## What I Do
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+**Build end-to-end** — Full ownership across frontend, backend, and infrastructure. I'm as comfortable designing a PostgreSQL schema as I am crafting a React component or writing a Spring Boot service.
 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+**Think in systems** — Before writing code, I think about data flow, failure modes, and long-term maintainability. Good architecture is the force multiplier everything else depends on.
+
+**Ship with product instinct** — I collaborate closely with design and product, contribute to roadmap decisions, and push back when technical tradeoffs aren't clearly understood. The best engineers are translators between what's possible and what's valuable.
+
+**Lead by doing** — I set technical direction by writing good code, documenting decisions, and raising the bar in reviews — not just in meetings.
 
 ---
 
-### 🧠 Backend
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+## Technical Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+**Languages** — Java · TypeScript · JavaScript · Python
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+**Frontend** — React · Angular · React Native · Ionic · Tailwind CSS
 
----
+**Backend** — Spring Boot · Hibernate · Django · Node.js
 
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+**Databases** — PostgreSQL · MySQL · Cloud Firestore
+
+**Tooling** — Docker · Git · Linux · Postman · Figma
 
 ---
 
-### ⚙ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+## Principles I Build By
 
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=adithyamohanan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=adithyamohanan&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyamohanan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- The best code is the code that didn't need to be written — simplicity is a feature
+- Ship early, learn fast, refine relentlessly
+- Understand the user's problem before reaching for a solution
+- Technical debt is a choice — make it consciously, pay it back deliberately
+- Great products come from engineers who care about the outcome, not just the output
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=adithyamohanan&icon=0&color=0)](https://visitcount.itsvg.in)
+## GitHub
 
----
-
-## My Commits Have a Life of Their Own 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adithyamohanan/adithyamohanan/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyamohanan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyamohanan&theme=github_dark&hide_border=true&count_private=true&layout=compact" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adithyamohanan&theme=github_dark&hide_border=true"/>
+</p>
 
-## 🤝 Let's Connect
-
-I enjoy collaborating on interesting projects and learning from other builders.
-
-If you're working on something meaningful or want to discuss ideas, feel free to reach out.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adithyamohanan/adithyamohanan/output/github-contribution-grid-snake-dark.svg" alt="contribution activity"/>
+</p>
 
 ---
 
-## ☕ Support My Work
+## Open to
 
-<p>
-  <a href="https://www.buymeacoffee.com/adithyamohanan" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+Conversations about interesting technical problems, product ideas, or collaborations worth building.
+
+**Email** — [adithyamohan913@gmail.com](mailto:adithyamohan913@gmail.com)  
+**LinkedIn** — [linkedin.com/in/adithya-mohanan-473617211](https://www.linkedin.com/in/adithya-mohanan-473617211/)
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/adithyamohanan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="38" alt="Support my work"/>
   </a>
 </p>
