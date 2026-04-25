@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Adithya Mohanan 👋</h1>
+<h1 align="center">Hey, I'm Adithya Mohanan</h1>
 <h3 align="center">Software Engineer · Full-Stack Builder · Product-First Thinker</h3>
 
 <p align="center">
